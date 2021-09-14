@@ -11,11 +11,6 @@ Aspiring Frontend developer From the first moment , when I wrote just a simple "
 * :computer: Css
 * :computer: Html
 
-Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on to find a job as frontend developer 
 - 🌱 I’m currently learning ReactJs 
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stathislag)](https://github.com/anuraghazra/github-readme-stats)
