@@ -6,7 +6,13 @@ Aspiring Frontend developer From the first moment , when I wrote just a simple "
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on to find a job as frontend developer 
+- 🌱 I’m currently learning ReactJs 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/stathislag//)  
+
+
 
 
 
