@@ -33,7 +33,7 @@ Currently, I'm focusing on **cloud infrastructure and networking**.
 - 🏗 Gain hands-on experience in **Infrastructure as Code (IaC)**  
 
 ## 📫 Get in Touch
-- **LinkedIn:** [[Your LinkedIn Profile](http://linkedin.com/in/stathis-lagos/)](#)  
-- **GitHub:** [github.com/stathislag](#)  
+- **LinkedIn:** <a href="https://www.linkedin.com/in/stathis-lagos/" target="_blank">Your LinkedIn Profile</a>  
+- **GitHub:** <a href="https://github.com/stathislag" target="_blank">github.com/YourUsername</a>  
 
 Feel free to connect and collaborate! 🚀
